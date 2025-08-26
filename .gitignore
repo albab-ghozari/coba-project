@@ -1,0 +1,30 @@
+# Node dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+.svelte-kit/
+
+# Vite cache
+.vite/
+
+# SvelteKit prerendered output
+output/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor/OS specific
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Environment files
+.env
+.env.*.local
