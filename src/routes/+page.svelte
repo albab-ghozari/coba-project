@@ -18,7 +18,7 @@
       <span>·</span>
       <span>2025</span>
     </span>
-    <a href="/login">login</a>
+    <a href="/login">login login</a>
   </div>
 </div>
 
